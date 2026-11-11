@@ -4,12 +4,6 @@
 <h3 align="center">Sr. Software QA Engineer | SQA Lead | SDET | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-8%2B_Years-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software_Quality-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/hendarsqa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
