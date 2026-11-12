@@ -167,8 +167,6 @@ I am also interested in exploring Artificial Intelligence and its applications i
 
 # 🤝 Let's Connect!
 
-I am currently open to new career opportunities, professional networking, referrals, and collaborations.
-
 If you are looking for someone with experience in Software Quality Assurance, Test Automation, API Testing, and QA Team Coordination, feel free to connect with me.
 
 <p align="center">
