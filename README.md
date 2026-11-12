@@ -26,8 +26,6 @@ This GitHub profile serves as my **professional portfolio**, showcasing my techn
 
 I am passionate about building reliable software, improving testing efficiency, developing automation solutions, and exploring how AI can enhance software quality.
 
-**Currently open to new career opportunities and professional collaborations.**
-
 ---
 
 # 💼 Professional Expertise
