@@ -155,9 +155,8 @@ I am also interested in exploring Artificial Intelligence and its applications i
 ---
 
 # 🎯 Career Interests
-
-- Sr. Software QA Engineer
 - SQA Lead
+- Sr. Software QA Engineer
 - QA Automation Engineer
 - Software Development Engineer in Test (SDET)
 - Software Test Engineer
