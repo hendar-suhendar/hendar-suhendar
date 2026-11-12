@@ -160,7 +160,9 @@ I am also interested in exploring Artificial Intelligence and its applications i
 - SQA Lead
 - QA Automation Engineer
 - Software Development Engineer in Test (SDET)
-- Software Quality Engineer
+- Software Test Engineer
+- Performance Test Engineer
+- Quality Control Analyst
 
 ---
 
